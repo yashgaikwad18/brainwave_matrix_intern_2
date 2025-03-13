@@ -21,7 +21,7 @@ Key Features of the Online Banking System :
 
 -Allows users to add funds to their account.
 
--Validates deposit amount (must be positive).
+-Validates deposit amount.
 
 
 
